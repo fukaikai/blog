@@ -1,21 +1,22 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>ShokaX Can</title>
-        <subtitle></subtitle>
-        <icon>http://example.com/assets/favicon.ico</icon>
-        <link>http://example.com</link>
+        <title>kai&#39;s blog</title>
+        <subtitle>welcome ,my friends</subtitle>
+        <icon>https://fukaikai.github.io/assets/favicon.ico</icon>
+        <link>https://fukaikai.github.io</link>
         <author>
-          <name>John Doe</name>
+          <name>羽书离弦啊</name>
         </author>
-        <description></description>
+        <description>玩,瞎折腾,windows,纳西妲,nahida,kai,QU</description>
         <language>zh-cn</language>
         <pubDate>Wed, 02 Oct 2024 17:29:21 +0800</pubDate>
         <lastBuildDate>Wed, 02 Oct 2024 17:29:21 +0800</lastBuildDate>
+        <category term="kai" />
         <item>
-            <guid isPermalink="true">http://example.com/2024/10/02/hello-world/</guid>
+            <guid isPermalink="true">https://fukaikai.github.io/2024/10/02/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://example.com/2024/10/02/hello-world/</link>
+            <link>https://fukaikai.github.io/2024/10/02/hello-world/</link>
             <pubDate>Wed, 02 Oct 2024 17:29:21 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
